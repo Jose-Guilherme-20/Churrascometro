@@ -1,0 +1,18 @@
+.container{
+    
+    max-width: 300px;
+    margin: auto;
+    background-color: aqua;
+    padding: 10px;
+}
+input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+input:focus{
+    box-shadow: 0;
+    outline: 0ch;
+}
+
